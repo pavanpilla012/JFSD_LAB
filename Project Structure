@@ -1,0 +1,23 @@
+/src
+    /main
+        /java
+            /com
+                /klef
+                    /jfsd
+                        /exam
+                            ClientController.java
+        /resources
+            /META-INF
+                /spring
+                    /dispatcher-servlet.xml
+        /webapp
+            /WEB-INF
+                /jsp
+                    test.jsp
+                    showInfo.jsp
+                    employeeForm.jsp
+                    addNumbers.jsp
+                    combine.jsp
+                    calculate.jsp
+                /lib
+            web.xml
